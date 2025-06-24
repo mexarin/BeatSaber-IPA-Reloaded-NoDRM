@@ -1,3 +1,5 @@
-# ![BSIPA](docs/images/banner_dark.svg) [![Build](https://github.com/nike4613/BeatSaber-IPA-Reloaded/workflows/Build/badge.svg)](https://github.com/nike4613/BeatSaber-IPA-Reloaded)
+# ![BSIPA](docs/images/banner_dark.svg)
 
-[ALL DOCUMENTATION HAS MOVED HERE](https://nike4613.github.io/BeatSaber-IPA-Reloaded/)
+This fork removes anti-piracy check
+
+[BSIPA official documentation](https://nike4613.github.io/BeatSaber-IPA-Reloaded/)
