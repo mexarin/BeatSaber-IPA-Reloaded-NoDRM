@@ -66,13 +66,6 @@ namespace IPA.Injector
                 SelfConfig.Load();
                 DisabledConfig.Load();
 
-                if (AntiPiracy.IsInvalid(Environment.CurrentDirectory))
-                {
-                    Default.Error("Invalid installation; please buy the game to run BSIPA.");
-
-                    return;
-                }
-
                 CriticalSection.Configure();
 
                 Logging.Logger.Injector.Debug("Prepping bootstrapper");
